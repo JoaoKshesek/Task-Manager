@@ -1,0 +1,27 @@
+.status {
+    padding: 6px;
+    color: white;
+    font-weight: bold;
+    border-radius: 4px;
+    background-color: #ffc107;
+}
+
+.Concluída {
+    background-color: #2e7d32;
+}
+
+.Aguardando {
+    background-color: #d32f2f;
+}
+.css-hfutr2-MuiSvgIcon-root-MuiSelect-icon {
+color: #095852!important;
+
+}
+
+.css-1t86nq5-MuiInputBase-root-MuiInput-root:before,.css-1ptx2yq-MuiInputBase-root-MuiInput-root:hover:not(.Mui-disabled):before     {
+    border-color: #0958518a!important;
+}
+
+.css-1q8a39x-MuiInputBase-root-MuiInput-root:after {
+    border-bottom:1px #095852!important;
+}
