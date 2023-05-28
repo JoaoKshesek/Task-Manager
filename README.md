@@ -1,17 +1,17 @@
-# Aplicação React de Gerenciamento de Projetos e Tarefas
+# React Task Management Application
 
-Projeto criado com as bibliotecas React JS e Material UI.
+Project developed with React JS and Material UI libraries.
 
 ![alt text](/src//assets//home.png)
 
-## Passo-a-passo para execução
+## Step-by-step for execution
 
-1. Clonar o repositório
-2. Localmente, entrar na pasta do projeto e instalar as dependências:
+1. Clone the repository
+2. Locally, go into the project folder and install the dependencies:
    `
    npm install
    `
-3. Executar a aplicação:
+3. Run the application:
    `
    npm start
    `
